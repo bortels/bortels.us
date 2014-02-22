@@ -9,4 +9,5 @@ a(_a, "162.195.210.119")
 
 -- CNAME records
 cname("www", _a)
+cname("home", _a)
 
